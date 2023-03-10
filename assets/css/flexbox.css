@@ -1,0 +1,158 @@
+.wrapper {
+    display: flex;
+    height: auto;
+    width: fit-content ;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+    background-color: aquamarine;
+    border: 3px solid black;
+}
+
+.wrapper1 {
+    display: flex;
+    height: 400px;
+    width: 400px;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.wrap1 {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 10px;
+}
+
+.box1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    background-color: #AA77FF;
+    border: 3px solid black;
+}
+
+.box2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    background-color: #62CDFF;
+    border: 3px solid black;
+}
+
+.wrap2 {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 10px;
+}
+
+.box3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25%;
+    background-color: #FFACAC;
+    border: 3px solid black;
+}
+
+.wrap3 {
+    display: flex;
+    flex-direction: row;
+    height: 75%;
+    gap: 10px;
+}
+
+.wrap4 {
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.box4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 66.66%;
+    background-color: #FFEBB4;
+    border: 3px solid black;
+}
+
+.box5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 33.33%;
+    background-color: #0E8388;
+    border: 3px solid black;
+}
+
+.wrap5 {
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.box6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 33.33%;
+    background-color: #CBE4DE;
+    border: 3px solid black;
+}
+
+.box7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 66.66%;
+    background-color: #E7B10A;
+    border: 3px solid black;
+}
+
+.wrapper2 {
+    display: flex;
+    height: 200px;
+    width: 400px;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.wrap6 {
+    display: flex;
+    height: 50%;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.box8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 66.66%;
+    background-color: #F7C8E0;
+    border: 3px solid black;
+}
+
+.box9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 33.33%;
+    background-color: #BDCDD6;
+    border: 3px solid black;
+}
+
+.box10 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E90064;
+    border: 3px solid black;
+    height: 50%;
+}
